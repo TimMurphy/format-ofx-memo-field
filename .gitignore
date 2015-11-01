@@ -1,0 +1,9 @@
+# msbuild results
+bin/
+obj/
+
+# Packages
+packages/
+
+# Visual Studio user files
+.vs/

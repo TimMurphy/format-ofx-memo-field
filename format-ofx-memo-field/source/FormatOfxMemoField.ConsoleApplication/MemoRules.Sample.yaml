@@ -1,0 +1,54 @@
+﻿Replacements:
+- SearchFor: TFR Westpac Cho
+  ReplaceWith: TRANSFER WESTPAC CHOICE
+- SearchFor: TFR GM Holden V
+  ReplaceWith: TRANSFER GM HOLDEN VISA
+- SearchFor: GOOGLE*SVCSAPPS26TP-CO
+  ReplaceWith: GOOGLE APPS - 26TP.COM
+- SearchFor: MCare Benefits
+  ReplaceWith: Medicare Benefits
+- SearchFor: Pharmacy Management Ka
+  ReplaceWith: Chemist
+- SearchFor: GOOGLE *MUSIC
+  ReplaceWith: Google Music
+- SearchFor: KARABAR SUPA IGA
+  ReplaceWith: IGA
+RemoveFromStartOfMemos:
+- DEBIT CARD PURCHASE
+- DEPOSIT ONLINE
+- DEPOSIT
+- WITHDRAWAL AT
+- WITHDRAWAL BY EFTPOS
+- PAYMENT BY AUTHORITY TO
+Locations:
+- FYSHWICK
+- JERRABOMBE
+- QUEANBEYAN
+- KARABAR
+- MANUKA
+- MELBOURNE
+- WODEN
+- AUSTRALIA
+CompanyNames:
+- ActewAGL
+- Amazon
+- AppHarbor
+- BP
+- Brindabella Practice
+- Code 42 Software
+- Elders
+- Foodcorp
+- iiNet
+- IGA
+- JB Hi Fi
+- KFC
+- Lowes
+- McDonalds
+- Medicare Benefit
+- Netflix
+- Optus
+- Salary Lasch Pty Ltd
+- Spotlight
+- Stg ATM
+- Wilson Parking
+- Woolworths
